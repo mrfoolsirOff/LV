@@ -1,4 +1,4 @@
-# +++ Modified By Yato [telegram username: @i_killed_my_clan & @ProYato] +++ # aNDI BANDI SANDI JISNE BHI CREDIT HATAYA USKI BANDI RAndi 
+# +++ Modified By Yato [telegram username: @Mtonysir] +++ # aNDI BANDI SANDI JISNE BHI CREDIT HATAYA USKI BANDI RAndi 
 import os
 from os import environ
 import logging
@@ -39,7 +39,7 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/otakufl
 ›› ᴏᴡɴᴇʀ: <a href='https://t.me/MTonySir'>ᴛᴏɴʏ</a>
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
-›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
+›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='mongodb+srv://lvowner:sakib@#2007#@cluster0.l1usmmp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Mtonysir</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 CHANNELS_TXT = """<b>›› ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/hentaihindisub'>ʟᴜsᴛʏᴠᴇʀsᴇ</a>
