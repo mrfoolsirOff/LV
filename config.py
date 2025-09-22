@@ -14,7 +14,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6127670649"))
 PORT = os.environ.get("PORT", "8080")
 
 # Database
-DB_URI = os.environ.get("DB_URI", "")
+DB_URI = os.environ.get("DB_URI", "mongodb+srv://lvowner:sakib@#2007#@cluster0.l1usmmp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")")
 DB_NAME = os.environ.get("DB_NAME", "link")
 
 #Auto approve 
@@ -34,12 +34,12 @@ START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛ�
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/MTonySir>Tony</a>\n» Our Community: <a href=https://t.me/LustyVerse>Lusty Verse</a>\n» Backup Channel: <a href=https://t.me/hentaihindisub>Anime Cruise</a>\n» Also Join: <a href=https://t.me/Lustyverse>LustyVerse</a>\n» Developer: <a href=https://t.me/MTonySir>Tony</a></b>")
 ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Yato (@ProYato) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
 
-ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/otakuflix_network'>ᴏᴛᴀᴋᴜғʟɪx</a>
-<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/codeflix_bots'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
+ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/LustyVerse'>ʟᴜsᴛʏᴠᴇʀsᴇ</a>
+<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/LustyVerse'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
 ›› ᴏᴡɴᴇʀ: <a href='https://t.me/MTonySir'>ᴛᴏɴʏ</a>
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
-›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='mongodb+srv://lvowner:sakib@#2007#@cluster0.l1usmmp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'>Mᴏɴɢᴏ ᴅʙ</a>
+›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Mtonysir</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 CHANNELS_TXT = """<b>›› ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/hentaihindisub'>ʟᴜsᴛʏᴠᴇʀsᴇ</a>
